@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AnimationsInAndroid</string>
+    <string name="first_Text_View">Hello World</string>
+    <string name="second_Text_View">Hi World</string>
+    <string name="third_Text_View">Professional Android App Development</string>
+</resources>
